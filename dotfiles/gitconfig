@@ -1,0 +1,16 @@
+# Default configuration information for 'git'
+
+[core]
+	# pager started by git when needed
+	pager = less -R
+
+	# proceed with default merge message, rather than asking
+ 	mergeoptions = --no-edit
+
+	# editor git uses when needed; uncomment to override EDITOR environment
+	# editor = vim
+	# editor = emacs -nw -q
+
+[push]
+	default = simple
+
