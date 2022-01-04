@@ -89,8 +89,7 @@ You cannot connect to Thayer's Linux servers unless you are connected to the Dar
 
 9. (OPTIONAL) To pick a preferred editor, edit `~/cs50-dev/dotfiles/profile.cs50` to uncomment one line defining `EDITOR`.
 	You can postpone this step until you've decided on your favorite editor.
-
-	> Read [about editors](https://www.cs.dartmouth.edu/~cs50/Logistics/systems.html#editors).
+ 	> Read about various editor choices in the "Editors" section of the [systems](https://github.com/cs50winter2022/home/blob/main/logistics/systems.md) page..
 
 10. Finally, log out of plank (use the `exit` command to exit bash), and log back in using the `ssh` command from above.
 
@@ -100,7 +99,7 @@ You cannot connect to Thayer's Linux servers unless you are connected to the Dar
 
 ## Developing your code
 
-Do all your work in the `c50-dev` folder.
+Do all your work in the `cs50-dev` folder.
 Thus, after login, use the `cd` command to change your *current directory* (aka *working directory*) to the `cs50-dev` subdirectory:
 
 ```bash
@@ -114,4 +113,4 @@ From there, create or clone new git repositories for your coursework.
 
 ## More information
 
-Much more information about the systems we use in CS50, including links to many other resources, can be found on the [systems page](https://www.cs.dartmouth.edu/~cs50/Logistics/systems.html) of the course website.
+Much more information about the systems we use in CS50, including links to many other resources, can be found on the [systems page](https://github.com/cs50winter2022/home/blob/main/logistics/systems.md) of the course website.
